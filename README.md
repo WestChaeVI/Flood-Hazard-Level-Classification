@@ -82,12 +82,41 @@ Similar research cases utilizing CCTV footage from different regions to discern 
 
 ### Table 2      
 #### Test Accuracy Based on Model and Class-Specific Datasets with the Same CCTV     
+ 
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">5class</th>
+      <th colspan="2">2class</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td style="text-align: center;">Same</td>
+      <td style="text-align: center;">W/O Same</td>
+      <td style="text-align: center;">Same</td>
+      <td style="text-align: center;">W/O Same</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">ResNet50</td>
+      <td style="text-align: center;">100.0%</td>
+      <td style="text-align: center;">20.00%</td>
+      <td style="text-align: center;">100.0%</td>
+      <td style="text-align: center;">66.67%</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">DINOv2</td>
+      <td style="text-align: center;">96.67%</td>
+      <td style="text-align: center;">56.67%</td>
+      <td style="text-align: center;">100.0%</td>
+      <td style="text-align: center;">96.67%</td>
+    </tr>
+  </tbody>
+</table>
+   
 
-|          	| 5 class 	|  5 class 	| 2 class 	|          	|
-|:--------:	|:-------:	|:--------:	|:-------:	|:--------:	|
-|          	|   Same  	| W/O Same 	|   Same  	| W/O Same 	|
-| ResNet50 	|   100%  	|    20%   	|   100%  	|  66.67%  	|
-|  DINOv2  	|  96.67% 	|  56.67%  	|   100%  	|  96.67%  	|      
 
  
 
