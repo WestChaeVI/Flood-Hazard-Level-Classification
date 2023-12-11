@@ -87,8 +87,8 @@ Similar research cases utilizing CCTV footage from different regions to discern 
   <thead>
     <tr>
       <th></th>
-      <th colspan="2">5class</th>
-      <th colspan="2">2class</th>
+      <th colspan="2">5 class</th>
+      <th colspan="2">2 class</th>
     </tr>
   </thead>
   <tbody>
