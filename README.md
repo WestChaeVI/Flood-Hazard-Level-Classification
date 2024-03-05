@@ -3,7 +3,7 @@
 **Chaejun Seo<sup>o, $</sup>**, Seongmin Cho<sup>$</sup>, Seunghyeok Hong<sup>*</sup>. (2023).   
 Enhancing the Safety Response Capability of Flood Hazard 
 Level Classification Model using DINOv2 Unsupervised Image Learning and Parameter Tuning      
-[한국정보과학회 학술발표논문집, pp ??~??]()      
+[한국정보과학회 학술발표논문집, pp 1,824-1,826](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705609)      
 
 ------------------------------------------------------------------------------------------------------------------------       
 
